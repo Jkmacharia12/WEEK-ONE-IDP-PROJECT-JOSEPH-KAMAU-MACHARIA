@@ -1,11 +1,12 @@
 body {
-  background-color: powderblue;
+  background-color:aquamarine
 }
 
 H3 {
   color: blue;
   font-size: large;
   text-decoration: solid;
+  box-sizing: border-box;
 }
 
 p {

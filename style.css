@@ -1,9 +1,14 @@
 body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: blue;font-size: large;text-decoration: solid;
-  }
-  p {
-    color: red;
-  }
+  background-color: powderblue;
+}
+
+H3 {
+  color: blue;
+  font-size: large;
+  text-decoration: solid;
+}
+
+p {
+  color: green;
+  font-style: italic;
+}

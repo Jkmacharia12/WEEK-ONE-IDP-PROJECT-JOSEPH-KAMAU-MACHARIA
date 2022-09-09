@@ -11,7 +11,7 @@
 ## Setup/Installation Requirements
 *Live link https://jkmacharia12.github.io/WEEK-ONE-IDP-PROJECT-JOSEPH-KAMAU-MACHARIA/
 *Just open the site and read.
-*Have an open mind while reading my story.Every journey starts one one step.
+*Have an open mind while reading my story.Every journey starts with one step.
 
 ## Known Bugs
 
